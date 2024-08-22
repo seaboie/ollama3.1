@@ -104,7 +104,7 @@ ollama run llava
 - Stop server
 
 ```bash
-pkill ollama
+pkill Ollama    # Big O,  Ollama
 ```  
 
 
