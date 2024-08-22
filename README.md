@@ -101,7 +101,13 @@ ollama run llama3.1
 ollama run llava
 ```  
 
-- Stop server
+- Exit ollama
+
+```bash
+/bye
+```
+
+- Quite ollama  
 
 ```bash
 pkill Ollama    # Big O,  Ollama
